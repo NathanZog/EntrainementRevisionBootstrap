@@ -16458,6 +16458,9 @@ header .navbar .title {
 .container-fluid .col-12, .container-sm .col-12, .container-md .col-12, .container-lg .col-12, .container-xl .col-12 {
   width: 100%;
 }
+.container-fluid .col-12 p, .container-sm .col-12 p, .container-md .col-12 p, .container-lg .col-12 p, .container-xl .col-12 p {
+  font-style: italic;
+}
 .container-fluid .row .col-4 .img, .container-sm .row .col-4 .img, .container-md .row .col-4 .img, .container-lg .row .col-4 .img, .container-xl .row .col-4 .img {
   height: 275px;
   width: 350px;
