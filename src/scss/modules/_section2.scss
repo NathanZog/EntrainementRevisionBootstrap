@@ -4,6 +4,7 @@
         width: 100%;
         p{
             font-style: italic;
+            color: $secondary;
         }
     }
     .row{
@@ -17,7 +18,8 @@
                 width: 103%;
                 text-align: center;
                 p{
-                    font-style: italic;          
+                    font-style: italic;
+                    color: $secondary;          
                 }
             }
         }
