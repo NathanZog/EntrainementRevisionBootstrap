@@ -1,0 +1,22 @@
+.container-fluid{
+    background-color: #F8F9FA;
+    .col-12{
+        width: 100%;
+    }
+    .row{
+        .col-4{
+            .img{
+                height: 275px;
+                width: 350px;
+            }
+            div{
+                background-color: white;
+                width: 103%;
+                text-align: center;
+                p{
+                    font-style: italic;          
+                }
+            }
+        }
+    }
+}

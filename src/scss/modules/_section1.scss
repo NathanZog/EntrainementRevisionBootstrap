@@ -1,0 +1,27 @@
+.container{
+    .row{
+        .col-12{
+            h1{
+                width: 100%;
+                font-size: 50px;
+            }
+            p{
+                font-style: italic;
+            }
+        }
+    }
+    .row{
+        .col-4{
+            i{
+                font-size: 65px;
+                border-radius: 50%;
+                padding: 20px;
+                background-color: $warning;
+                color: white;
+            }
+            p{
+                text-align: center;
+            }
+        }
+    }
+}
